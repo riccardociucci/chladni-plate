@@ -52,7 +52,7 @@ Switch between modes with the **Particles / Vector** buttons in the sidebar, or 
 
 | Control | Description |
 |---------|-------------|
-| **Fill** | `None` — no fill · `Band` — fills the nodal band (region where |z| < threshold) · `Regions` — fills all areas where z > 0 |
+| **Fill** | `None` — no fill · `Band` — fills the nodal band (region where \|z\| < threshold) · `Regions` — fills all areas where z > 0 |
 | **Band thickness** | Width of the nodal band used by the Band fill mode (0.02 – 0.40) |
 | **Outline** | Toggles the stroke drawn along the nodal contour lines |
 | **Stroke width** | Thickness of the outline stroke (0.3 – 4.0 px) |
